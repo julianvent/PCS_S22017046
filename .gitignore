@@ -2,7 +2,6 @@
 out/
 *.iml
 .idea/
-out/
 
 ### VS Code ###
 .vscode/
