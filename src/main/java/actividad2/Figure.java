@@ -1,4 +1,4 @@
-package main.java.uv.herenciapoo;
+package main.java.actividad2;
 
 public abstract class Figure {
     private int numberOfSides;

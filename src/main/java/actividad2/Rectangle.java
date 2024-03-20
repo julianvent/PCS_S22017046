@@ -1,4 +1,4 @@
-package main.java.uv.herenciapoo;
+package main.java.actividad2;
 
 public class Rectangle extends Figure implements Redimension {
     private double width;
